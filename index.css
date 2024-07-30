@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+p,
+li{
+    color:rgb(0, 103, 60);
+}
+.special {
+    color: orange;
+    font-weight: bold;
+}
+.test {
+    width: 400px;  
+    height: 600px;
+    background-color: blue;
+}
