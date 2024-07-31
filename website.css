@@ -1,4 +1,13 @@
-.special{ 
-    color: rgb(9, 188, 0);
-    font-size: 500%;
+.hi{ 
+    color: rgb(119, 255, 8);
+    font-size: 4em;
+    text-align: center;
+}
+.hello{
+    color: rgb(239, 228, 71);
+    font-size: 2em;
+    text-align: center;
+}
+body {
+    background-image: url("57d25d03621ab09a2832127a62f5cbbf.gif");
 }
