@@ -5,9 +5,14 @@
 }
 .hello{
     color: rgb(239, 228, 71);
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
 }
 body {
     background-image: url("57d25d03621ab09a2832127a62f5cbbf.gif");
+}
+.hola{
+    color: rgb(88, 202, 233);
+    font-size: 2em;
+    text-align: center;
 }
